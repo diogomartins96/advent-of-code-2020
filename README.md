@@ -7,3 +7,5 @@ I will always try to do the daily challenges in Excel. Macros will only be used 
 Day 1 - :heavy_check_mark:
 
 Day 2 - :heavy_check_mark:
+
+Day 3 - :heavy_check_mark:
